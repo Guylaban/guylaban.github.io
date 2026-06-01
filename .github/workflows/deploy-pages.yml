@@ -6,7 +6,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main, master, claude/focused-goodall-Gyse6]
+    branches: [main, master, claude/add-conference-rankings-OnzzT, claude/focused-goodall-Gyse6]
   workflow_dispatch: {}
 
 permissions:

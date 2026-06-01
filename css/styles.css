@@ -179,18 +179,26 @@ img, svg { display: block; max-width: 100%; }
 /* ---------- Hero ---------- */
 .hero {
   min-height: 100vh;
-  display: flex; flex-direction: column; justify-content: flex-start;
-  /* anchor to top so the avatar stays clear of the fixed nav when content is tall */
+  display: flex; flex-direction: column; justify-content: center;
   padding: 120px clamp(18px, 5vw, 48px) 60px;
   max-width: var(--maxw); margin: 0 auto;
   position: relative;
 }
-.hero__avatar {
-  width: clamp(120px, 16vw, 168px); height: clamp(120px, 16vw, 168px);
-  object-fit: cover; border-radius: 50%;
-  margin-bottom: 28px;
-  border: 3px solid rgba(255, 106, 19, 0.5);
-  box-shadow: 0 12px 38px rgba(255, 106, 19, 0.32);
+.hero__inner {
+  display: grid; grid-template-columns: 1.4fr 0.85fr;
+  gap: clamp(28px, 5vw, 64px); align-items: center;
+}
+.hero__media { display: flex; justify-content: flex-end; }
+.hero__photo {
+  width: 100%; height: auto; max-width: 360px; aspect-ratio: 1 / 1; object-fit: cover;
+  border-radius: var(--radius);
+  border: 1px solid var(--card-border);
+  box-shadow: 0 26px 60px rgba(255, 106, 19, 0.28);
+}
+@media (max-width: 880px) {
+  .hero__inner { grid-template-columns: 1fr; }
+  .hero__media { justify-content: flex-start; order: -1; }
+  .hero__photo { width: clamp(140px, 40vw, 220px); }
 }
 .hero__eyebrow {
   display: inline-flex; align-items: center; gap: 10px;

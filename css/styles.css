@@ -304,7 +304,7 @@ img, svg { display: block; max-width: 100%; }
   position: sticky; top: 100px;
 }
 .about__portrait {
-  display: block; width: 100%; aspect-ratio: 1 / 1; object-fit: cover;
+  display: block; width: 100%; height: auto; aspect-ratio: 1 / 1; object-fit: cover;
   border-radius: calc(var(--radius) - 8px); margin-bottom: 22px;
   border: 1px solid var(--card-border);
   box-shadow: 0 18px 40px rgba(255, 106, 19, 0.18);

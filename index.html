@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Guy Laban — Human-Robot Interaction &amp; Affective Computing</title>
+  <meta name="description" content="Dr. Guy Laban — Senior Lecturer at Ben-Gurion University. Researching how people communicate and share emotions with social robots, chatbots and AI." />
+  <meta name="author" content="Guy Laban" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Guy Laban — Human-Robot Interaction &amp; Affective Computing" />
+  <meta property="og:description" content="Researching how people communicate and share emotions with social robots, chatbots and AI." />
+
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <!-- Animated gradient background canvas -->
+  <div class="bg-aurora" aria-hidden="true">
+    <span class="blob blob-1"></span>
+    <span class="blob blob-2"></span>
+    <span class="blob blob-3"></span>
+  </div>
+
+  <!-- Progress bar -->
+  <div class="scroll-progress" id="scrollProgress" aria-hidden="true"></div>
+
+  <!-- Navigation -->
+  <header class="nav" id="nav">
+    <a href="#home" class="nav__brand">
+      <span class="nav__logo">GL</span>
+      <span class="nav__name">Guy&nbsp;Laban</span>
+    </a>
+    <nav class="nav__links" aria-label="Primary">
+      <a href="#about">About</a>
+      <a href="#research">Research</a>
+      <a href="#publications">Publications</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <button class="nav__toggle" id="navToggle" aria-label="Toggle menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </header>
+
+  <main>
+    <!-- HERO -->
+    <section class="hero" id="home">
+      <div class="hero__inner">
+        <p class="hero__eyebrow reveal">
+          <span class="pulse-dot"></span> Senior Lecturer · Ben-Gurion University of the Negev
+        </p>
+        <h1 class="hero__title reveal">
+          <span class="line">Guy</span>
+          <span class="line gradient-text">Laban</span>
+        </h1>
+        <p class="hero__lead reveal">
+          I study how people <strong>communicate and share their emotions</strong>
+          with artificial agents — social robots, chatbots and conversational AI —
+          and what that means for our <span class="hl">well-being</span>.
+        </p>
+
+        <div class="hero__cta reveal">
+          <a href="#publications" class="btn btn--primary">
+            Explore Publications <span class="btn__arrow">→</span>
+          </a>
+          <a href="https://scholar.google.com/citations?user=K7-LiJ0AAAAJ&hl=en"
+             target="_blank" rel="noopener" class="btn btn--ghost">Google Scholar</a>
+        </div>
+
+        <!-- Live stats (populated from data) -->
+        <div class="hero__stats reveal" id="heroStats">
+          <div class="stat">
+            <span class="stat__num" data-count="1838">0</span>
+            <span class="stat__label">Citations</span>
+          </div>
+          <div class="stat">
+            <span class="stat__num" data-count="19">0</span>
+            <span class="stat__label">h-index</span>
+          </div>
+          <div class="stat">
+            <span class="stat__num" data-count="50" data-suffix="+">0</span>
+            <span class="stat__label">Publications</span>
+          </div>
+          <div class="stat">
+            <span class="stat__num" data-count="29">0</span>
+            <span class="stat__label">i10-index</span>
+          </div>
+        </div>
+      </div>
+      <div class="hero__scroll" aria-hidden="true">
+        <span></span> scroll
+      </div>
+    </section>
+
+    <!-- Marquee of research interests -->
+    <div class="marquee" aria-hidden="true">
+      <div class="marquee__track" id="marqueeTrack"></div>
+    </div>
+
+    <!-- ABOUT -->
+    <section class="section about" id="about">
+      <div class="section__head reveal">
+        <span class="section__kicker">01 — About</span>
+        <h2 class="section__title">Human connection, <span class="gradient-text">artificial partners</span></h2>
+      </div>
+      <div class="about__grid">
+        <div class="about__text reveal">
+          <p>
+            I am a Senior Lecturer (Assistant Professor) in the
+            <strong>Department of Industrial Engineering &amp; Management</strong> at
+            Ben-Gurion University of the Negev. My research sits at the intersection of
+            human-robot interaction, affective computing and health psychology —
+            asking how, when and why people open up to machines.
+          </p>
+          <p>
+            Previously I was a Research Associate in the
+            <strong>Affective Intelligence &amp; Robotics Laboratory (AFAR)</strong> at the
+            University of Cambridge's Department of Computer Science &amp; Technology, led by
+            Prof. Hatice Gunes. I completed my PhD at the University of Glasgow under
+            Prof. Emily S. Cross (Glasgow &amp; ETH Zürich) and Prof. Val Morrison (Bangor),
+            as an ESR in the Marie Skłodowska-Curie network <em>ENTWINE</em>.
+          </p>
+          <p class="about__aside">
+            Off the clock you'll find me in the mountains — hiking and snowboarding —
+            or behind a camera.
+          </p>
+        </div>
+        <aside class="about__card reveal">
+          <h3>At a glance</h3>
+          <ul class="factlist">
+            <li><span>Role</span><strong>Senior Lecturer</strong></li>
+            <li><span>Institution</span><strong>Ben-Gurion University</strong></li>
+            <li><span>Field</span><strong>Human-Robot Interaction</strong></li>
+            <li><span>Email</span><strong>Laban [at] bgu.ac.il</strong></li>
+          </ul>
+          <div class="about__socials">
+            <a href="https://scholar.google.com/citations?user=K7-LiJ0AAAAJ&hl=en" target="_blank" rel="noopener">Scholar</a>
+            <a href="https://il.linkedin.com/in/guylaban" target="_blank" rel="noopener">LinkedIn</a>
+            <a href="https://www.researchgate.net/profile/Guy-Laban" target="_blank" rel="noopener">ResearchGate</a>
+            <a href="https://twitter.com/Guylaban" target="_blank" rel="noopener">Twitter</a>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <!-- RESEARCH -->
+    <section class="section research" id="research">
+      <div class="section__head reveal">
+        <span class="section__kicker">02 — Research</span>
+        <h2 class="section__title">What I work on</h2>
+      </div>
+      <div class="cards">
+        <article class="card reveal">
+          <div class="card__icon">🤖</div>
+          <h3>Human-Robot Interaction</h3>
+          <p>Long-term relationships between people and social robots — perception, trust and disclosure across time.</p>
+        </article>
+        <article class="card reveal">
+          <div class="card__icon">💬</div>
+          <h3>Conversational AI</h3>
+          <p>How chatbots and LLM-powered agents shape what we reveal, and how anthropomorphism drives self-disclosure.</p>
+        </article>
+        <article class="card reveal">
+          <div class="card__icon">❤️‍🩹</div>
+          <h3>Affective Computing</h3>
+          <p>Recognising and supporting emotion — from speech-based assessment to robot-led emotion regulation.</p>
+        </article>
+        <article class="card reveal">
+          <div class="card__icon">🧠</div>
+          <h3>Health &amp; Well-being</h3>
+          <p>Social robots for mental health: caregivers, PTSD, loneliness, and child well-being assessment.</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- PUBLICATIONS -->
+    <section class="section publications" id="publications">
+      <div class="section__head reveal">
+        <span class="section__kicker">03 — Publications</span>
+        <h2 class="section__title">Selected &amp; recent work</h2>
+        <p class="section__sub">
+          Automatically synced from
+          <a href="https://scholar.google.com/citations?user=K7-LiJ0AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>.
+          <span id="lastUpdated" class="last-updated"></span>
+        </p>
+      </div>
+
+      <!-- Controls -->
+      <div class="pub-controls reveal">
+        <div class="search-wrap">
+          <svg viewBox="0 0 24 24" class="search-icon" aria-hidden="true"><path d="M21 21l-4.35-4.35M11 19a8 8 0 1 1 0-16 8 8 0 0 1 0 16z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+          <input type="search" id="pubSearch" placeholder="Search titles, authors, venues…" aria-label="Search publications" />
+        </div>
+        <div class="pub-filters" id="pubFilters" role="group" aria-label="Filter by type">
+          <button class="chip is-active" data-filter="all">All</button>
+          <button class="chip" data-filter="journal">Journals</button>
+          <button class="chip" data-filter="conference">Conferences</button>
+          <button class="chip" data-filter="preprint">Preprints</button>
+        </div>
+        <div class="pub-sort">
+          <label for="pubSort">Sort</label>
+          <select id="pubSort">
+            <option value="year">Newest</option>
+            <option value="citations">Most cited</option>
+          </select>
+        </div>
+      </div>
+
+      <p class="pub-count" id="pubCount" aria-live="polite"></p>
+
+      <ul class="pub-list" id="pubList">
+        <!-- populated by js/publications.js -->
+        <li class="pub-loading">Loading publications…</li>
+      </ul>
+    </section>
+
+    <!-- CONTACT -->
+    <section class="section contact" id="contact">
+      <div class="contact__card reveal">
+        <h2>Let's talk robots &amp; emotions</h2>
+        <p>Open to collaborations, student projects and talks on human-AI interaction.</p>
+        <a href="mailto:Laban@bgu.ac.il" class="btn btn--primary btn--lg">Laban [at] bgu.ac.il</a>
+        <div class="contact__socials">
+          <a href="https://scholar.google.com/citations?user=K7-LiJ0AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+          <a href="https://il.linkedin.com/in/guylaban" target="_blank" rel="noopener">LinkedIn</a>
+          <a href="https://www.researchgate.net/profile/Guy-Laban" target="_blank" rel="noopener">ResearchGate</a>
+          <a href="https://cris.bgu.ac.il/en/persons/guy-laban/" target="_blank" rel="noopener">BGU Profile</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>© <span id="year"></span> Guy Laban · Built with an automated Google Scholar pipeline.</p>
+  </footer>
+
+  <script src="js/publications.js" defer></script>
+  <script src="js/main.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,53 @@
+name: Update publications from Google Scholar
+
+# Keeps data/publications.json (and the journal/conference logos shown next to
+# each paper) in sync with Guy Laban's Google Scholar profile.
+
+on:
+  schedule:
+    # Every Monday at 06:00 UTC.
+    - cron: "0 6 * * 1"
+  workflow_dispatch: {}   # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-publications
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch publications from Google Scholar
+        env:
+          SCHOLAR_ID: K7-LiJ0AAAAJ
+          # Optional: add a SCRAPERAPI_KEY repo secret for reliable scraping.
+          SCRAPERAPI_KEY: ${{ secrets.SCRAPERAPI_KEY }}
+        run: python scripts/fetch_publications.py
+
+      - name: Commit & push if changed
+        run: |
+          if [[ -n "$(git status --porcelain data/publications.json)" ]]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data/publications.json
+            git commit -m "chore: sync publications from Google Scholar"
+            git push
+            echo "Publications updated."
+          else
+            echo "No changes to publications."
+          fi

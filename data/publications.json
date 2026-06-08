@@ -3,124 +3,105 @@
     "name": "Guy Laban",
     "scholar_id": "K7-LiJ0AAAAJ",
     "scholar_url": "https://scholar.google.com/citations?user=K7-LiJ0AAAAJ&hl=en",
-    "total_citations": 1838,
+    "total_citations": 1854,
     "h_index": 19,
     "i10_index": 29,
-    "last_updated": "2026-06-01",
-    "source": "seed",
+    "last_updated": "2026-06-08",
+    "source": "google-scholar",
     "interests": [
-      "Human-Robot Interaction",
+      "Human-Robot interaction",
       "Human-centered AI",
-      "Self-Disclosure",
+      "Self Disclosure",
       "Affective Computing",
       "Conversational AI"
-    ]
+    ],
+    "synced_at": "2026-06-08T11:10:30+00:00"
   },
   "publications": [
     {
-      "title": "What makes a robot social? A review of social robots from science fiction to a home or hospital near you",
-      "authors": "A Henschel, G Laban, ES Cross",
-      "venue": "Current Robotics Reports",
-      "year": 2021,
-      "citations": 409,
-      "url": "https://scholar.google.com/scholar?q=What+makes+a+robot+social+review+of+social+robots",
-      "type": "journal",
-      "logo": "springer"
-    },
-    {
-      "title": "Future directions for chatbot research: an interdisciplinary research agenda",
-      "authors": "A Følstad, T Araujo, ELC Law, PB Brandtzaeg, S Papadopoulos, et al.",
-      "venue": "Computing",
-      "year": 2021,
-      "citations": 406,
-      "url": "https://scholar.google.com/scholar?q=Future+directions+for+chatbot+research+interdisciplinary+research+agenda",
-      "type": "journal",
-      "logo": "springer"
-    },
-    {
-      "title": "Building long-term human–robot relationships: Examining disclosure, perception and well-being across time",
-      "authors": "G Laban, A Kappas, V Morrison, ES Cross",
-      "venue": "International Journal of Social Robotics",
-      "year": 2024,
-      "citations": 138,
-      "url": "https://scholar.google.com/scholar?q=Building+long-term+human+robot+relationships+disclosure+perception+well-being",
-      "type": "journal",
-      "logo": "springer"
-    },
-    {
-      "title": "Tell me more! Assessing interactions with social robots from speech",
-      "authors": "G Laban, JN George, V Morrison, ES Cross",
-      "venue": "Paladyn, Journal of Behavioral Robotics",
-      "year": 2021,
-      "citations": 125,
-      "url": "https://scholar.google.com/scholar?q=Tell+me+more+Assessing+interactions+with+social+robots+from+speech",
-      "type": "journal",
-      "logo": "degruyter"
-    },
-    {
-      "title": "Sharing our Emotions with Robots: Why do we do it and how does it make us feel?",
-      "authors": "G Laban, ES Cross",
-      "venue": "IEEE Transactions on Affective Computing",
-      "year": 2024,
-      "citations": 69,
-      "url": "https://scholar.google.com/scholar?q=Sharing+our+Emotions+with+Robots+Why+do+we+do+it",
+      "title": "A Robot-Led Intervention for Emotion Regulation: from Expression to Reappraisal",
+      "authors": "G Laban, J Wang, H Gunes",
+      "venue": "IEEE Transactions on Affective Computing, 2026",
+      "year": 2026,
+      "citations": 24,
+      "url": "https://scholar.google.com/scholar?q=A+Robot-Led+Intervention+for+Emotion+Regulation+Expression+to+Reappraisal",
       "type": "journal",
       "logo": "ieee"
     },
     {
-      "title": "Perceptions of anthropomorphism in a chatbot dialogue: The role of animacy and intelligence",
-      "authors": "G Laban",
-      "venue": "Proceedings of the 9th International Conference on Human-Agent Interaction",
-      "year": 2021,
-      "citations": 55,
-      "url": "https://scholar.google.com/scholar?q=Perceptions+of+anthropomorphism+in+a+chatbot+dialogue+animacy+intelligence",
+      "title": "DialogGuard: Multi-Agent Psychosocial Safety Evaluation Interface for Sensitive LLM Responses",
+      "authors": "H Luo, G Laban",
+      "venue": "ACL, 2026",
+      "year": 2026,
+      "citations": 6,
+      "url": "https://scholar.google.com/scholar?q=DialogGuard+Multi-Agent+Psychosocial+Safety+Evaluation+Interface+LLM",
       "type": "conference",
-      "logo": "acm"
+      "logo": "acl"
     },
     {
-      "title": "Social robots for supporting post-traumatic stress disorder diagnosis and treatment",
-      "authors": "G Laban, Z Ben-Zion, ES Cross",
-      "venue": "Frontiers in Psychiatry",
-      "year": 2022,
-      "citations": 54,
-      "url": "https://scholar.google.com/scholar?q=Social+robots+for+supporting+post-traumatic+stress+disorder+diagnosis+treatment",
+      "title": "Human–AI interactions reshape the self and our social networks",
+      "authors": "G Laban, et al.",
+      "venue": "Nature Machine Intelligence, 1-2, 2026",
+      "year": 2026,
+      "citations": 0,
+      "url": "https://scholar.google.com/scholar?q=Human-AI+interactions+reshape+the+self+and+our+social+networks",
       "type": "journal",
-      "logo": "frontiers"
+      "logo": "nature"
     },
     {
-      "title": "The effect of personalization techniques in users' perceptions of conversational recommender systems",
-      "authors": "G Laban, T Araujo",
-      "venue": "Proceedings of the 20th ACM International Conference on Intelligent Virtual Agents",
-      "year": 2020,
-      "citations": 52,
-      "url": "https://scholar.google.com/scholar?q=effect+of+personalization+techniques+conversational+recommender+systems",
+      "title": "Asymmetry between warmth and clinical substance in multilingual consumer health AI",
+      "authors": "G Laban, et al.",
+      "venue": "medRxiv, 2026.05. 09.26352813, 2026",
+      "year": 2026,
+      "citations": 0,
+      "url": "https://scholar.google.com/scholar?q=Asymmetry+between+warmth+and+clinical+substance+multilingual+consumer+health+AI",
+      "type": "preprint",
+      "logo": "preprint"
+    },
+    {
+      "title": "Emotional Expression in Low-Degrees-of-Freedom Robots: Assessing Perception with Reachy Mini",
+      "authors": "G Laban, et al.",
+      "venue": "arXiv preprint arXiv:2605.12786, 2026",
+      "year": 2026,
+      "citations": 0,
+      "url": "https://scholar.google.com/scholar?q=Emotional+Expression+in+Low-Degrees-of-Freedom+Robots+Reachy+Mini",
+      "type": "preprint",
+      "logo": "arxiv"
+    },
+    {
+      "title": "Designing Artificial Identity: The Identity Design Framework and Research Agenda",
+      "authors": "G Laban, et al.",
+      "venue": "DIS'26: Proceedings of the 2026 ACM Designing Interactive Systems Conference, 2026",
+      "year": 2026,
+      "citations": 0,
+      "url": "https://scholar.google.com/scholar?q=Designing+Artificial+Identity+Identity+Design+Framework+Research+Agenda",
       "type": "conference",
       "logo": "acm"
     },
     {
-      "title": "Opening up to social robots: how emotions drive self-disclosure behavior",
-      "authors": "G Laban, A Kappas, V Morrison, ES Cross",
-      "venue": "2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
-      "year": 2023,
-      "citations": 43,
-      "url": "https://scholar.google.com/scholar?q=Opening+up+to+social+robots+how+emotions+drive+self-disclosure+behavior",
-      "type": "conference",
-      "logo": "ieee"
+      "title": "SPASM: Stable Persona-driven Agent Simulation for Multi-turn Dialogue Generation",
+      "authors": "G Laban, et al.",
+      "venue": "arXiv preprint arXiv:2604.09212, 2026",
+      "year": 2026,
+      "citations": 0,
+      "url": "https://scholar.google.com/scholar?q=SPASM+Stable+Persona-driven+Agent+Simulation+Multi-turn+Dialogue",
+      "type": "preprint",
+      "logo": "arxiv"
     },
     {
-      "title": "Ethics of Conversational User Interfaces",
-      "authors": "M Lee, J Sin, G Laban, M Kraus, L Clark, M Porcheron, BR Cowan, et al.",
-      "venue": "CHI Conference on Human Factors in Computing Systems Extended Abstracts",
-      "year": 2022,
-      "citations": 40,
-      "url": "https://scholar.google.com/scholar?q=Ethics+of+Conversational+User+Interfaces",
+      "title": "Social Robotics for Disabled Students: An Empirical Investigation of Embodiment, Roles, and Interaction",
+      "authors": "G Laban, et al.",
+      "venue": "Proceedings of the 21st ACM/IEEE International Conference on Human-Robot …, 2026",
+      "year": 2026,
+      "citations": 0,
+      "url": "https://scholar.google.com/scholar?q=Social+Robotics+for+Disabled+Students+Embodiment+Roles+Interaction",
       "type": "conference",
       "logo": "acm"
     },
     {
       "title": "Coping with emotional distress via self-disclosure to robots: an intervention with caregivers",
       "authors": "G Laban, V Morrison, A Kappas, ES Cross",
-      "venue": "International Journal of Social Robotics",
+      "venue": "International Journal of Social Robotics 17 (9), 1837-1870, 2025",
       "year": 2025,
       "citations": 39,
       "url": "https://scholar.google.com/scholar?q=Coping+with+emotional+distress+via+self-disclosure+to+robots+caregivers",
@@ -128,99 +109,29 @@
       "logo": "springer"
     },
     {
-      "title": "Working Together with Conversational Agents: The relationship of perceived cooperation with service performance evaluations",
-      "authors": "G Laban, T Araujo",
-      "venue": "Chatbot Research and Design (CONVERSATIONS), Springer",
-      "year": 2020,
-      "citations": 39,
-      "url": "https://scholar.google.com/scholar?q=Working+Together+with+Conversational+Agents+perceived+cooperation",
-      "type": "conference",
-      "logo": "springer"
-    },
-    {
-      "title": "Informal caregivers disclose increasingly more to a social robot over time",
-      "authors": "G Laban, V Morrison, A Kappas, ES Cross",
-      "venue": "CHI Conference on Human Factors in Computing Systems Extended Abstracts",
-      "year": 2022,
-      "citations": 37,
-      "url": "https://scholar.google.com/scholar?q=Informal+caregivers+disclose+increasingly+more+to+a+social+robot+over+time",
-      "type": "conference",
-      "logo": "acm"
-    },
-    {
-      "title": "Don't take it personally: resistance to individually targeted recommendations from conversational recommender agents",
-      "authors": "G Laban, T Araujo",
-      "venue": "Proceedings of the 10th International Conference on Human-Agent Interaction",
-      "year": 2022,
-      "citations": 25,
-      "url": "https://scholar.google.com/scholar?q=Don't+take+it+personally+resistance+to+individually+targeted+recommendations",
-      "type": "conference",
-      "logo": "acm"
-    },
-    {
       "title": "Past, Present, and Future: A Survey of The Evolution of Affective Robotics For Well-being",
       "authors": "M Spitale, M Axelsson, S Jeong, P Tuttösí, CA Stamatis, G Laban, A Lim, et al.",
-      "venue": "IEEE Transactions on Affective Computing",
+      "venue": "IEEE Transactions on Affective Computing, 2025",
       "year": 2025,
-      "citations": 24,
+      "citations": 27,
       "url": "https://scholar.google.com/scholar?q=Past+Present+Future+Survey+Evolution+of+Affective+Robotics+Well-being",
       "type": "journal",
       "logo": "ieee"
     },
     {
-      "title": "A Robot-Led Intervention for Emotion Regulation: from Expression to Reappraisal",
-      "authors": "G Laban, J Wang, H Gunes",
-      "venue": "IEEE Transactions on Affective Computing",
-      "year": 2026,
-      "citations": 23,
-      "url": "https://scholar.google.com/scholar?q=A+Robot-Led+Intervention+for+Emotion+Regulation+Expression+to+Reappraisal",
+      "title": "A longitudinal study of child wellbeing assessment via online interactions with a social robot",
+      "authors": "NI Abbasi, G Laban, T Ford, PB Jones, H Gunes",
+      "venue": "ACM Transactions on Human-Robot Interaction 14 (3), 1-35, 2025",
+      "year": 2025,
+      "citations": 14,
+      "url": "https://scholar.google.com/scholar?q=longitudinal+study+of+child+wellbeing+assessment+online+interactions+social+robot",
       "type": "journal",
-      "logo": "ieee"
-    },
-    {
-      "title": "LEXI: Large Language Models Experimentation Interface",
-      "authors": "G Laban, T Laban, H Gunes",
-      "venue": "Proceedings of the 12th International Conference on Human-Agent Interaction",
-      "year": 2024,
-      "citations": 22,
-      "url": "https://scholar.google.com/scholar?q=LEXI+Large+Language+Models+Experimentation+Interface",
-      "type": "conference",
       "logo": "acm"
-    },
-    {
-      "title": "Social robot advisors: effects of robot judgmental fallacies and context",
-      "authors": "T Polakow, G Laban, A Teodorescu, JR Busemeyer, G Gordon",
-      "venue": "Intelligent Service Robotics",
-      "year": 2022,
-      "citations": 19,
-      "url": "https://scholar.google.com/scholar?q=Social+robot+advisors+effects+of+robot+judgmental+fallacies+and+context",
-      "type": "journal",
-      "logo": "springer"
-    },
-    {
-      "title": "Let's talk about it! Subjective and objective disclosures to social robots",
-      "authors": "G Laban, V Morrison, ES Cross",
-      "venue": "Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction",
-      "year": 2020,
-      "citations": 18,
-      "url": "https://scholar.google.com/scholar?q=Let's+talk+about+it+Subjective+and+objective+disclosures+to+social+robots",
-      "type": "conference",
-      "logo": "acm"
-    },
-    {
-      "title": "Social Robots for Health Psychology: A New Frontier for Improving Human Health and Well-Being",
-      "authors": "G Laban, V Morrison, ES Cross",
-      "venue": "European Health Psychologist",
-      "year": 2024,
-      "citations": 17,
-      "url": "https://scholar.google.com/scholar?q=Social+Robots+for+Health+Psychology+New+Frontier+Improving+Human+Health",
-      "type": "article",
-      "logo": "default"
     },
     {
       "title": "Knowledge cues to human origins facilitate self-disclosure during interactions with chatbots",
       "authors": "G Warren-Smith, G Laban, EM Pacheco, ES Cross",
-      "venue": "Computers in Human Behavior: Artificial Humans",
+      "venue": "Computers in Human Behavior: Artificial Humans, 100174, 2025",
       "year": 2025,
       "citations": 13,
       "url": "https://scholar.google.com/scholar?q=Knowledge+cues+to+human+origins+facilitate+self-disclosure+chatbots",
@@ -228,19 +139,9 @@
       "logo": "elsevier"
     },
     {
-      "title": "A longitudinal study of child wellbeing assessment via online interactions with a social robot",
-      "authors": "NI Abbasi, G Laban, T Ford, PB Jones, H Gunes",
-      "venue": "ACM Transactions on Human-Robot Interaction",
-      "year": 2025,
-      "citations": 13,
-      "url": "https://scholar.google.com/scholar?q=longitudinal+study+of+child+wellbeing+assessment+online+interactions+social+robot",
-      "type": "journal",
-      "logo": "acm"
-    },
-    {
       "title": "What People Share With a Robot When Feeling Lonely and Stressed and How It Helps Over Time",
       "authors": "G Laban, S Chiang, H Gunes",
-      "venue": "2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+      "venue": "2025 34th IEEE International Conference on Robot and Human Interactive …, 2025",
       "year": 2025,
       "citations": 12,
       "url": "https://scholar.google.com/scholar?q=What+People+Share+With+a+Robot+When+Feeling+Lonely+and+Stressed",
@@ -248,19 +149,9 @@
       "logo": "ieee"
     },
     {
-      "title": "Robo-identity: Exploring artificial identity and emotion via speech interactions",
-      "authors": "G Laban, S Le Maguer, M Lee, D Kontogiorgos, S Reig, I Torre, R Tejwani, et al.",
-      "venue": "2022 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI)",
-      "year": 2022,
-      "citations": 12,
-      "url": "https://scholar.google.com/scholar?q=Robo-identity+Exploring+artificial+identity+and+emotion+via+speech+interactions",
-      "type": "conference",
-      "logo": "acm"
-    },
-    {
       "title": "Robot-Led Vision Language Model Wellbeing Assessment of Children",
       "authors": "NI Abbasi, FI Dogan, G Laban, J Anderson, T Ford, PB Jones, H Gunes",
-      "venue": "2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+      "venue": "🏆2025 34th IEEE International Conference on Robot and Human Interactive …, 2025",
       "year": 2025,
       "citations": 11,
       "url": "https://scholar.google.com/scholar?q=Robot-Led+Vision+Language+Model+Wellbeing+Assessment+of+Children",
@@ -268,39 +159,9 @@
       "logo": "ieee"
     },
     {
-      "title": "User experience of human-robot long-term interactions",
-      "authors": "G Laban, A Kappas, V Morrison, ES Cross",
-      "venue": "Proceedings of the 10th International Conference on Human-Agent Interaction",
-      "year": 2022,
-      "citations": 11,
-      "url": "https://scholar.google.com/scholar?q=User+experience+of+human-robot+long-term+interactions",
-      "type": "conference",
-      "logo": "acm"
-    },
-    {
-      "title": "Studying and eliciting self-disclosure: Interdisciplinary review of research methodologies and behavioural paradigms",
-      "authors": "G Laban",
-      "venue": "PsyArXiv",
-      "year": 2024,
-      "citations": 10,
-      "url": "https://scholar.google.com/scholar?q=Studying+and+eliciting+self-disclosure+Interdisciplinary+review+methodologies",
-      "type": "preprint",
-      "logo": "osf"
-    },
-    {
-      "title": "Is Deep Learning a Valid Approach for Inferring Subjective Self-Disclosure in Human-Robot Interactions?",
-      "authors": "H Powell, G Laban, JN George, ES Cross",
-      "venue": "2022 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI)",
-      "year": 2022,
-      "citations": 10,
-      "url": "https://scholar.google.com/scholar?q=Is+Deep+Learning+a+Valid+Approach+for+Inferring+Subjective+Self-Disclosure",
-      "type": "conference",
-      "logo": "acm"
-    },
-    {
       "title": "How large language models classify and semantically explain facial expressions from valence-arousal values",
       "authors": "V Mehra, G Laban, H Gunes",
-      "venue": "Proceedings of the 7th ACM Conference on Conversational User Interfaces (CUI)",
+      "venue": "Proceedings of the 7th ACM Conference on Conversational User Interfaces, 1-6, 2025",
       "year": 2025,
       "citations": 7,
       "url": "https://scholar.google.com/scholar?q=How+large+language+models+classify+facial+expressions+valence-arousal",
@@ -308,9 +169,119 @@
       "logo": "acm"
     },
     {
+      "title": "Critical insights about robots for mental wellbeing",
+      "authors": "G Laban, M Spitale, M Axelsson, NI Abbasi, H Gunes",
+      "venue": "arXiv preprint arXiv:2506.13739, 2025",
+      "year": 2025,
+      "citations": 6,
+      "url": "https://scholar.google.com/scholar?q=Critical+insights+about+robots+for+mental+wellbeing",
+      "type": "preprint",
+      "logo": "arxiv"
+    },
+    {
+      "title": "Self-Disclosure Themes and Semantics Across Human, Robotic, and Disembodied Conversational Partners",
+      "authors": "S Chiang, G Laban, ES Cross, H Gunes",
+      "venue": "2025 34th IEEE International Conference on Robot and Human Interactive …, 2025",
+      "year": 2025,
+      "citations": 3,
+      "url": "https://scholar.google.com/scholar?q=Self-Disclosure+Themes+and+Semantics+Across+Human+Robotic+Disembodied",
+      "type": "conference",
+      "logo": "ieee"
+    },
+    {
+      "title": "Bias and Fairness in Conversational User Interfaces",
+      "authors": "G Laban, J Hough, M Lee, A Markelius, ME Foster, J Stuart-Smith, et al.",
+      "venue": "Proceedings of the 7th ACM Conference on Conversational User Interfaces, 1-8, 2025",
+      "year": 2025,
+      "citations": 2,
+      "url": "https://scholar.google.com/scholar?q=Bias+and+Fairness+in+Conversational+User+Interfaces",
+      "type": "conference",
+      "logo": "acm"
+    },
+    {
+      "title": "DEBP-PVA: Designing and Evaluating Behavioral Paradigms With Proactive Virtual Agents",
+      "authors": "G Laban, et al.",
+      "venue": "Adjunct Proceedings of the 25th ACM International Conference on Intelligent …, 2025",
+      "year": 2025,
+      "citations": 0,
+      "url": "https://scholar.google.com/scholar?q=DEBP-PVA+Designing+and+Evaluating+Behavioral+Paradigms+Proactive+Virtual+Agents",
+      "type": "conference",
+      "logo": "acm"
+    },
+    {
+      "title": "A Multimodal Neural Network for Recognizing Subjective Self-Disclosure Towards Social Robots",
+      "authors": "G Laban, et al.",
+      "venue": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025",
+      "year": 2025,
+      "citations": 0,
+      "url": "https://scholar.google.com/scholar?q=Multimodal+Neural+Network+Recognizing+Subjective+Self-Disclosure+Social+Robots",
+      "type": "conference",
+      "logo": "ieee"
+    },
+    {
+      "title": "Do We Talk to Robots Like Therapists, and Do They Respond Accordingly? Language Alignment in AI Emotional Support",
+      "authors": "G Laban, et al.",
+      "venue": "arXiv preprint arXiv:2506.16473, 2025",
+      "year": 2025,
+      "citations": 0,
+      "url": "https://scholar.google.com/scholar?q=Do+We+Talk+to+Robots+Like+Therapists+Language+Alignment+AI+Emotional+Support",
+      "type": "preprint",
+      "logo": "arxiv"
+    },
+    {
+      "title": "Building long-term human–robot relationships: Examining disclosure, perception and well-being across time",
+      "authors": "G Laban, A Kappas, V Morrison, ES Cross",
+      "venue": "International Journal of Social Robotics 16 (5), 1-27, 2024",
+      "year": 2024,
+      "citations": 139,
+      "url": "https://scholar.google.com/scholar?q=Building+long-term+human+robot+relationships+disclosure+perception+well-being",
+      "type": "journal",
+      "logo": "springer"
+    },
+    {
+      "title": "Sharing our Emotions with Robots: Why do we do it and how does it make us feel?",
+      "authors": "G Laban, ES Cross",
+      "venue": "IEEE Transactions on Affective Computing, 2024",
+      "year": 2024,
+      "citations": 70,
+      "url": "https://scholar.google.com/scholar?q=Sharing+our+Emotions+with+Robots+Why+do+we+do+it",
+      "type": "journal",
+      "logo": "ieee"
+    },
+    {
+      "title": "LEXI: Large Language Models Experimentation Interface",
+      "authors": "G Laban, T Laban, H Gunes",
+      "venue": "Proceedings of the 12th International Conference on Human-Agent Interaction …, 2024",
+      "year": 2024,
+      "citations": 22,
+      "url": "https://scholar.google.com/scholar?q=LEXI+Large+Language+Models+Experimentation+Interface",
+      "type": "conference",
+      "logo": "acm"
+    },
+    {
+      "title": "Social Robots for Health Psychology: A New Frontier for Improving Human Health and Well-Being",
+      "authors": "G Laban, V Morrison, ES Cross",
+      "venue": "European Health Psychologist 23 (1), 1095-1102, 2024",
+      "year": 2024,
+      "citations": 17,
+      "url": "https://scholar.google.com/scholar?q=Social+Robots+for+Health+Psychology+New+Frontier+Improving+Human+Health",
+      "type": "article",
+      "logo": "default"
+    },
+    {
+      "title": "Studying and eliciting self-disclosure: Interdisciplinary review of research methodologies and behavioural paradigms",
+      "authors": "G Laban",
+      "venue": "PsyArxiv, 2024",
+      "year": 2024,
+      "citations": 10,
+      "url": "https://scholar.google.com/scholar?q=Studying+and+eliciting+self-disclosure+Interdisciplinary+review+methodologies",
+      "type": "preprint",
+      "logo": "arxiv"
+    },
+    {
       "title": "Robotising Psychometrics: Validating Wellbeing Assessment Tools in Child-Robot Interactions",
       "authors": "NI Abbasi, G Laban, T Ford, PB Jones, H Gunes",
-      "venue": "2024 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+      "venue": "2024 33rd IEEE International Conference on Robot and Human Interactive …, 2024",
       "year": 2024,
       "citations": 7,
       "url": "https://scholar.google.com/scholar?q=Robotising+Psychometrics+Validating+Wellbeing+Assessment+Tools+Child-Robot",
@@ -318,14 +289,224 @@
       "logo": "ieee"
     },
     {
+      "title": "Opening up to social robots: how emotions drive self-disclosure behavior",
+      "authors": "G Laban, A Kappas, V Morrison, ES Cross",
+      "venue": "2023 32nd IEEE International Conference on Robot and Human Interactive …, 2023",
+      "year": 2023,
+      "citations": 43,
+      "url": "https://scholar.google.com/scholar?q=Opening+up+to+social+robots+how+emotions+drive+self-disclosure+behavior",
+      "type": "conference",
+      "logo": "ieee"
+    },
+    {
+      "title": "Social robots as communication partners to support emotional well-being",
+      "authors": "G Laban",
+      "venue": "University of Glasgow, 2023",
+      "year": 2023,
+      "citations": 1,
+      "url": "https://scholar.google.com/scholar?q=Social+robots+as+communication+partners+emotional+well-being+Glasgow+dissertation",
+      "type": "thesis",
+      "logo": "glasgow"
+    },
+    {
+      "title": "Evaluating ecological momentary assessment techniques for self-monitoring mental health using a mobile application",
+      "authors": "G Laban, et al.",
+      "venue": "Affective Science 4 (1), 221, 2023",
+      "year": 2023,
+      "citations": 0,
+      "url": "https://scholar.google.com/scholar?q=Evaluating+ecological+momentary+assessment+self-monitoring+mental+health+mobile",
+      "type": "journal",
+      "logo": "springer"
+    },
+    {
+      "title": "Social robots for supporting post-traumatic stress disorder diagnosis and treatment",
+      "authors": "G Laban, Z Ben-Zion, ES Cross",
+      "venue": "Frontiers in psychiatry 12, 752874, 2022",
+      "year": 2022,
+      "citations": 54,
+      "url": "https://scholar.google.com/scholar?q=Social+robots+for+supporting+post-traumatic+stress+disorder+diagnosis+treatment",
+      "type": "journal",
+      "logo": "frontiers"
+    },
+    {
+      "title": "Ethics of Conversational User Interfaces",
+      "authors": "M Lee, J Sin, G Laban, M Kraus, L Clark, M Porcheron, BR Cowan, et al.",
+      "venue": "CHI Conference on Human Factors in Computing Systems Extended Abstracts, 1-7, 2022",
+      "year": 2022,
+      "citations": 40,
+      "url": "https://scholar.google.com/scholar?q=Ethics+of+Conversational+User+Interfaces",
+      "type": "conference",
+      "logo": "acm"
+    },
+    {
+      "title": "Informal caregivers disclose increasingly more to a social robot over time",
+      "authors": "G Laban, V Morrison, A Kappas, ES Cross",
+      "venue": "Chi conference on human factors in computing systems extended abstracts, 1-7, 2022",
+      "year": 2022,
+      "citations": 38,
+      "url": "https://scholar.google.com/scholar?q=Informal+caregivers+disclose+increasingly+more+to+a+social+robot+over+time",
+      "type": "conference",
+      "logo": "acm"
+    },
+    {
+      "title": "Don't take it personally: resistance to individually targeted recommendations from conversational recommender agents",
+      "authors": "G Laban, T Araujo",
+      "venue": "Proceedings of the 10th international conference on human-agent interaction …, 2022",
+      "year": 2022,
+      "citations": 25,
+      "url": "https://scholar.google.com/scholar?q=Don't+take+it+personally+resistance+to+individually+targeted+recommendations",
+      "type": "conference",
+      "logo": "acm"
+    },
+    {
+      "title": "Social robot advisors: effects of robot judgmental fallacies and context",
+      "authors": "T Polakow, G Laban, A Teodorescu, JR Busemeyer, G Gordon",
+      "venue": "Intelligent Service Robotics 15, 593-609, 2022",
+      "year": 2022,
+      "citations": 19,
+      "url": "https://scholar.google.com/scholar?q=Social+robot+advisors+effects+of+robot+judgmental+fallacies+and+context",
+      "type": "journal",
+      "logo": "springer"
+    },
+    {
+      "title": "Robo-identity: Exploring artificial identity and emotion via speech interactions",
+      "authors": "G Laban, S Le Maguer, M Lee, D Kontogiorgos, S Reig, I Torre, R Tejwani, et al.",
+      "venue": "2022 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI …, 2022",
+      "year": 2022,
+      "citations": 12,
+      "url": "https://scholar.google.com/scholar?q=Robo-identity+Exploring+artificial+identity+and+emotion+via+speech+interactions",
+      "type": "conference",
+      "logo": "acm"
+    },
+    {
+      "title": "User experience of human-robot long-term interactions",
+      "authors": "G Laban, A Kappas, V Morrison, ES Cross",
+      "venue": "Proceedings of the 10th international conference on human-agent interaction …, 2022",
+      "year": 2022,
+      "citations": 11,
+      "url": "https://scholar.google.com/scholar?q=User+experience+of+human-robot+long-term+interactions",
+      "type": "conference",
+      "logo": "acm"
+    },
+    {
+      "title": "Is Deep Learning a Valid Approach for Inferring Subjective Self-Disclosure in Human-Robot Interactions?",
+      "authors": "H Powell, G Laban, JN George, ES Cross",
+      "venue": "2022 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI …, 2022",
+      "year": 2022,
+      "citations": 10,
+      "url": "https://scholar.google.com/scholar?q=Is+Deep+Learning+a+Valid+Approach+for+Inferring+Subjective+Self-Disclosure",
+      "type": "conference",
+      "logo": "acm"
+    },
+    {
       "title": "Definition, conceptualisation and measurement of trust",
       "authors": "M Porcheron, M Lee, B Nesset, F Guribye, M van der Goot, RK Moore, et al.",
-      "venue": "Dagstuhl Reports",
+      "venue": "Dagstuhl Reports 11 (8), 101-105, 2022",
       "year": 2022,
       "citations": 7,
       "url": "https://scholar.google.com/scholar?q=Definition+conceptualisation+and+measurement+of+trust+Dagstuhl",
       "type": "report",
       "logo": "default"
+    },
+    {
+      "title": "Social robots as communication partners to support emotional health and well-being",
+      "authors": "G Laban",
+      "venue": "2022 10th International conference on affective computing and intelligent …, 2022",
+      "year": 2022,
+      "citations": 6,
+      "url": "https://scholar.google.com/scholar?q=Social+robots+as+communication+partners+emotional+health+well-being+ACII",
+      "type": "journal",
+      "logo": "springer"
+    },
+    {
+      "title": "What makes a robot social? A review of social robots from science fiction to a home or hospital near you",
+      "authors": "A Henschel, G Laban, ES Cross",
+      "venue": "Current Robotics Reports 2, 9-19, 2021",
+      "year": 2021,
+      "citations": 412,
+      "url": "https://scholar.google.com/scholar?q=What+makes+a+robot+social+review+of+social+robots",
+      "type": "journal",
+      "logo": "springer"
+    },
+    {
+      "title": "Future directions for chatbot research: an interdisciplinary research agenda",
+      "authors": "A Følstad, T Araujo, ELC Law, PB Brandtzaeg, S Papadopoulos, et al.",
+      "venue": "Computing 103 (12), 2915-2942, 2021",
+      "year": 2021,
+      "citations": 409,
+      "url": "https://scholar.google.com/scholar?q=Future+directions+for+chatbot+research+interdisciplinary+research+agenda",
+      "type": "journal",
+      "logo": "springer"
+    },
+    {
+      "title": "Tell me more! Assessing interactions with social robots from speech",
+      "authors": "G Laban, JN George, V Morrison, ES Cross",
+      "venue": "Paladyn, Journal of Behavioral Robotics 12 (1), 136-159, 2021",
+      "year": 2021,
+      "citations": 125,
+      "url": "https://scholar.google.com/scholar?q=Tell+me+more+Assessing+interactions+with+social+robots+from+speech",
+      "type": "journal",
+      "logo": "degruyter"
+    },
+    {
+      "title": "Perceptions of anthropomorphism in a chatbot dialogue: The role of animacy and intelligence",
+      "authors": "G Laban",
+      "venue": "Proceedings of the 9th International conference on human-agent interaction …, 2021",
+      "year": 2021,
+      "citations": 56,
+      "url": "https://scholar.google.com/scholar?q=Perceptions+of+anthropomorphism+in+a+chatbot+dialogue+animacy+intelligence",
+      "type": "conference",
+      "logo": "acm"
+    },
+    {
+      "title": "Caregivers' little helpers: how can social robots support informal caregivers with monitoring the health and well-being of care recipients?",
+      "authors": "G Laban",
+      "venue": "ENTWINE Informal Care, 26, 2021",
+      "year": 2021,
+      "citations": 2,
+      "url": "https://scholar.google.com/scholar?q=Caregivers+little+helpers+social+robots+support+informal+caregivers",
+      "type": "article",
+      "logo": "default"
+    },
+    {
+      "title": "The effect of personalization techniques in users' perceptions of conversational recommender systems",
+      "authors": "G Laban, T Araujo",
+      "venue": "Proceedings of the 20th ACM international conference on intelligent virtual …, 2020",
+      "year": 2020,
+      "citations": 52,
+      "url": "https://scholar.google.com/scholar?q=effect+of+personalization+techniques+conversational+recommender+systems",
+      "type": "conference",
+      "logo": "acm"
+    },
+    {
+      "title": "Working Together with Conversational Agents: The relationship of perceived cooperation with service performance evaluations",
+      "authors": "G Laban, T Araujo",
+      "venue": "Chatbot Research and Design 11970, 215-228, 2020",
+      "year": 2020,
+      "citations": 40,
+      "url": "https://scholar.google.com/scholar?q=Working+Together+with+Conversational+Agents+perceived+cooperation",
+      "type": "journal",
+      "logo": "springer"
+    },
+    {
+      "title": "Binge-watching (Netflix) product placement: A content analysis on different product placements in Netflix originals vs. non-Netflix originals, and drama vs. comedy shows",
+      "authors": "",
+      "venue": "the 7th European Communication Conference (ECREA), 2020",
+      "year": 2020,
+      "citations": 38,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K7-LiJ0AAAAJ&citation_for_view=K7-LiJ0AAAAJ:2osOgNQ5qMEC",
+      "type": "conference",
+      "logo": "default"
+    },
+    {
+      "title": "Let's talk about it! Subjective and objective disclosures to social robots",
+      "authors": "G Laban, V Morrison, ES Cross",
+      "venue": "Companion of the 2020 ACM/IEEE international conference on human-robot …, 2020",
+      "year": 2020,
+      "citations": 18,
+      "url": "https://scholar.google.com/scholar?q=Let's+talk+about+it+Subjective+and+objective+disclosures+to+social+robots",
+      "type": "conference",
+      "logo": "acm"
     },
     {
       "title": "Socially Assistive Robots in Prolonged Interactions for Measuring Expression in Natural Settings",
@@ -338,174 +519,14 @@
       "logo": "osf"
     },
     {
-      "title": "DialogGuard: Multi-Agent Psychosocial Safety Evaluation Interface for Sensitive LLM Responses",
-      "authors": "H Luo, G Laban",
-      "venue": "Association for Computational Linguistics (ACL)",
-      "year": 2026,
-      "citations": 6,
-      "url": "https://scholar.google.com/scholar?q=DialogGuard+Multi-Agent+Psychosocial+Safety+Evaluation+Interface+LLM",
-      "type": "conference",
-      "logo": "acl"
-    },
-    {
-      "title": "Critical insights about robots for mental wellbeing",
-      "authors": "G Laban, M Spitale, M Axelsson, NI Abbasi, H Gunes",
-      "venue": "arXiv preprint",
-      "year": 2025,
-      "citations": 6,
-      "url": "https://scholar.google.com/scholar?q=Critical+insights+about+robots+for+mental+wellbeing",
+      "title": "OSF Repository: Socially Assistive Robots in Prolonged Interactions for Measuring Expression in Natural Settings",
+      "authors": "",
+      "venue": "osf 10 (URL: https://osf. io/m74cb/, doi), 2020",
+      "year": 2020,
+      "citations": 7,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K7-LiJ0AAAAJ&citation_for_view=K7-LiJ0AAAAJ:WA5NYHcadZ8C",
       "type": "preprint",
-      "logo": "arxiv"
-    },
-    {
-      "title": "Social robots as communication partners to support emotional health and well-being",
-      "authors": "G Laban",
-      "venue": "2022 10th International Conference on Affective Computing and Intelligent Interaction (ACII)",
-      "year": 2022,
-      "citations": 6,
-      "url": "https://scholar.google.com/scholar?q=Social+robots+as+communication+partners+emotional+health+well-being+ACII",
-      "type": "conference",
-      "logo": "ieee"
-    },
-    {
-      "title": "Self-Disclosure Themes and Semantics Across Human, Robotic, and Disembodied Conversational Partners",
-      "authors": "S Chiang, G Laban, ES Cross, H Gunes",
-      "venue": "2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
-      "year": 2025,
-      "citations": 3,
-      "url": "https://scholar.google.com/scholar?q=Self-Disclosure+Themes+and+Semantics+Across+Human+Robotic+Disembodied",
-      "type": "conference",
-      "logo": "ieee"
-    },
-    {
-      "title": "Bias and Fairness in Conversational User Interfaces",
-      "authors": "G Laban, J Hough, M Lee, A Markelius, ME Foster, J Stuart-Smith, et al.",
-      "venue": "Proceedings of the 7th ACM Conference on Conversational User Interfaces (CUI)",
-      "year": 2025,
-      "citations": 2,
-      "url": "https://scholar.google.com/scholar?q=Bias+and+Fairness+in+Conversational+User+Interfaces",
-      "type": "conference",
-      "logo": "acm"
-    },
-    {
-      "title": "Caregivers' little helpers: how can social robots support informal caregivers with monitoring the health and well-being of care recipients?",
-      "authors": "G Laban",
-      "venue": "ENTWINE Informal Care",
-      "year": 2021,
-      "citations": 2,
-      "url": "https://scholar.google.com/scholar?q=Caregivers+little+helpers+social+robots+support+informal+caregivers",
-      "type": "article",
-      "logo": "default"
-    },
-    {
-      "title": "Social robots as communication partners to support emotional well-being",
-      "authors": "G Laban",
-      "venue": "University of Glasgow (Doctoral Dissertation)",
-      "year": 2023,
-      "citations": 1,
-      "url": "https://scholar.google.com/scholar?q=Social+robots+as+communication+partners+emotional+well-being+Glasgow+dissertation",
-      "type": "thesis",
-      "logo": "glasgow"
-    },
-    {
-      "title": "Human–AI interactions reshape the self and our social networks",
-      "authors": "G Laban, et al.",
-      "venue": "Nature Machine Intelligence",
-      "year": 2026,
-      "citations": 0,
-      "url": "https://scholar.google.com/scholar?q=Human-AI+interactions+reshape+the+self+and+our+social+networks",
-      "type": "journal",
-      "logo": "nature"
-    },
-    {
-      "title": "Asymmetry between warmth and clinical substance in multilingual consumer health AI",
-      "authors": "G Laban, et al.",
-      "venue": "medRxiv",
-      "year": 2026,
-      "citations": 0,
-      "url": "https://scholar.google.com/scholar?q=Asymmetry+between+warmth+and+clinical+substance+multilingual+consumer+health+AI",
-      "type": "preprint",
-      "logo": "preprint"
-    },
-    {
-      "title": "Emotional Expression in Low-Degrees-of-Freedom Robots: Assessing Perception with Reachy Mini",
-      "authors": "G Laban, et al.",
-      "venue": "arXiv preprint",
-      "year": 2026,
-      "citations": 0,
-      "url": "https://scholar.google.com/scholar?q=Emotional+Expression+in+Low-Degrees-of-Freedom+Robots+Reachy+Mini",
-      "type": "preprint",
-      "logo": "arxiv"
-    },
-    {
-      "title": "Designing Artificial Identity: The Identity Design Framework and Research Agenda",
-      "authors": "G Laban, et al.",
-      "venue": "Proceedings of the 2026 ACM Conference on Designing Interactive Systems (DIS)",
-      "year": 2026,
-      "citations": 0,
-      "url": "https://scholar.google.com/scholar?q=Designing+Artificial+Identity+Identity+Design+Framework+Research+Agenda",
-      "type": "conference",
-      "logo": "acm"
-    },
-    {
-      "title": "SPASM: Stable Persona-driven Agent Simulation for Multi-turn Dialogue Generation",
-      "authors": "G Laban, et al.",
-      "venue": "arXiv preprint",
-      "year": 2026,
-      "citations": 0,
-      "url": "https://scholar.google.com/scholar?q=SPASM+Stable+Persona-driven+Agent+Simulation+Multi-turn+Dialogue",
-      "type": "preprint",
-      "logo": "arxiv"
-    },
-    {
-      "title": "Social Robotics for Disabled Students: An Empirical Investigation of Embodiment, Roles, and Interaction",
-      "authors": "G Laban, et al.",
-      "venue": "21st ACM/IEEE International Conference on Human-Robot Interaction (HRI)",
-      "year": 2026,
-      "citations": 0,
-      "url": "https://scholar.google.com/scholar?q=Social+Robotics+for+Disabled+Students+Embodiment+Roles+Interaction",
-      "type": "conference",
-      "logo": "acm"
-    },
-    {
-      "title": "DEBP-PVA: Designing and Evaluating Behavioral Paradigms With Proactive Virtual Agents",
-      "authors": "G Laban, et al.",
-      "venue": "25th ACM International Conference on Intelligent User Interfaces (IUI)",
-      "year": 2025,
-      "citations": 0,
-      "url": "https://scholar.google.com/scholar?q=DEBP-PVA+Designing+and+Evaluating+Behavioral+Paradigms+Proactive+Virtual+Agents",
-      "type": "conference",
-      "logo": "acm"
-    },
-    {
-      "title": "A Multimodal Neural Network for Recognizing Subjective Self-Disclosure Towards Social Robots",
-      "authors": "G Laban, et al.",
-      "venue": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
-      "year": 2025,
-      "citations": 0,
-      "url": "https://scholar.google.com/scholar?q=Multimodal+Neural+Network+Recognizing+Subjective+Self-Disclosure+Social+Robots",
-      "type": "conference",
-      "logo": "ieee"
-    },
-    {
-      "title": "Do We Talk to Robots Like Therapists, and Do They Respond Accordingly? Language Alignment in AI Emotional Support",
-      "authors": "G Laban, et al.",
-      "venue": "arXiv preprint",
-      "year": 2025,
-      "citations": 0,
-      "url": "https://scholar.google.com/scholar?q=Do+We+Talk+to+Robots+Like+Therapists+Language+Alignment+AI+Emotional+Support",
-      "type": "preprint",
-      "logo": "arxiv"
-    },
-    {
-      "title": "Evaluating ecological momentary assessment techniques for self-monitoring mental health using a mobile application",
-      "authors": "G Laban, et al.",
-      "venue": "Affective Science",
-      "year": 2023,
-      "citations": 0,
-      "url": "https://scholar.google.com/scholar?q=Evaluating+ecological+momentary+assessment+self-monitoring+mental+health+mobile",
-      "type": "journal",
-      "logo": "springer"
+      "logo": "osf"
     }
   ]
 }
